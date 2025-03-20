@@ -28,9 +28,5 @@ Hey, I’m a Web3 developer. I build and write code for smart contracts, dApps, 
 </p>
 
 <p align="center">
-💥 I sign transactions, not NDAs. 💥
-</p>
-
-<p align="center">
 <img src="https://komarev.com/ghpvc/?username=Virus-Axel" />
 </p>
