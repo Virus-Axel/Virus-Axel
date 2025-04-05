@@ -29,7 +29,7 @@ Hey, I’m a Web3 developer. I build and write code for smart contracts, dApps, 
 
 ---
 
-## My hobby projects
+## My Hobby Projects
 
 Most of my time I spend on my own projects. I mainly focus on [godot-solana-sdk](https://github.com/Virus-Axel/godot-solana-sdk)
 
@@ -43,7 +43,7 @@ TODO(Virax): Add all my projects here. Send me a mail if you want to know more [
 
 ---
 
-## My work Experience
+## My Work Experience
 
 I have several years of professional C and C++ experience. I have mostly developed embedded software for cars and technical equipment. I have worked as a consultant at several companies. The following sections describe my work experience and what my duties were.
 
